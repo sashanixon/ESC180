@@ -7,7 +7,7 @@ Implementation of an AI engine for the game Gomoku, played on a 8 × 8 board. In
 # Synonym.py
 One type of question encountered in the Test of English as a Foreign Language (TOEFL) is the “Synonym Question”, where students are asked to pick a synonym of a word out of a list of alternatives. For example:
 
-vexed (Answer: (a) annoyed)
+1. vexed (Answer: (a) annoyed)
 (a) annoyed
 
 (b) amused
